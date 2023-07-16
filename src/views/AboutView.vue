@@ -3,17 +3,19 @@
     <div class="row">
       <div class="col">
         <p class="h3 fw-bold text-success">About Us</p>
-        <p class="fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque ab magnam neque fugit, autem architecto quam sequi tempore. Blanditiis, iusto? Voluptatibus ipsum at adipisci, rem, ducimus, debitis porro quibusdam enim dolorum error assumenda in corrupti vitae perspiciatis numquam doloremque! Cumque numquam animi nesciunt blanditiis facilis magni, saepe laudantium minima soluta?</p>
+        <p class="fst-italic">Mindbowser is the most trusted digital transformation and product engineering company. With over a decade of experience, digitizing 100+ customers in 7 countries across different industries. We focus on Design Thinking, Clean Code, DevSecops & Quality Automation through its cutting-edge solutions in Mobility, Data Science, Cloud, IoT, Blockchain & ML.
+
+</p>
       </div>
     </div>
     <div class="row">
       <div class="col">
         <ul class="list-group">
           <li class="list-group-item">
-            App Name : <span class="fw-bold">Vue Router</span>
+            App Name : <span class="fw-bold">Mindbowser Inc</span>
           </li>
           <li class="list-group-item">
-            Author : <span class="fw-bold">Deepak Kumbhar</span>
+            Author : <span class="fw-bold">Mindbowser</span>
           </li>
           <li class="list-group-item">
             App Version : <span class="fw-bold">1.0</span>

@@ -2,6 +2,7 @@ import { createRouter, createWebHistory, RouteRecordRaw } from 'vue-router'
 import HomeView from '../views/HomeView.vue'
 import UserList from '../components/UserList.vue'
 import UserDetails from '../components/UserDetails.vue'
+import AddUser from '../components/AddUser.vue'
 
 const routes: Array<RouteRecordRaw> = [
   {
@@ -18,6 +19,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/users/:userId',
     name: 'UserDetails',
     component: UserDetails
+  },
+  {
+    path: '/users/add',
+    name: 'AddUser',
+    component: AddUser
   },
   {
     path: '/about',

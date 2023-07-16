@@ -3,8 +3,8 @@
     <div class="row">
       <div class="col text-center">
     <img alt="Vue logo" src="../assets/logo.png">
-    <p class="h3 display-3 text-muted">Vue Router</p>
-    <p class="fst-italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias vitae explicabo qui. Mollitia, quod consequatur? Sunt distinctio ex voluptatum dolores, quam minima sit repudiandae maiores repellat aliquam ab fugiat laudantium ducimus natus odit. Placeat impedit maiores nemo temporibus qui cupiditate eaque illo velit, voluptates, repellat, eius dolorum facilis labore explicabo.</p>
+    <p class="h3 display-3 text-muted">Get Started With Vue Js!</p>
+    <p class="fst-italic">Let's Get Started With demo implementation...</p>
       </div>
     </div>
   </div>
